@@ -12,6 +12,7 @@
         <module>cs-p</module>
         <module>java</module>
         <module>java</module>
+        <module>java</module>
     </modules>
 
     <properties>
