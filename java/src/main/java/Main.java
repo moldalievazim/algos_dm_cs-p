@@ -11,6 +11,7 @@ public class Main {
         for(int i=0;i<nums.length;i++){
             int val = nums[i];
             int complement = target-val;
+            System.out.println("val: " + val + " index: " + i + " complement: "+ complement);
             if(complements.containsKey(complement)){
                 return new int[]{complements.get(complement), i};
             }
@@ -27,6 +28,4 @@ public class Main {
         indices = twoSum(nums, 12);
         System.out.println("Indices: " + indices[0] + ", " + indices[1]);
     };
-
-
 };
