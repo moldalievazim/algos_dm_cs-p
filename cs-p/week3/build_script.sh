@@ -33,5 +33,3 @@ echo "Build version $version contains:"
 ls
 cd ..
 
-
-for file
