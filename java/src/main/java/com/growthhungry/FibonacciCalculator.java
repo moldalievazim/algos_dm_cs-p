@@ -1,3 +1,5 @@
+package com.growthhungry;
+
 import java.util.Scanner;
 
 public class FibonacciCalculator {
