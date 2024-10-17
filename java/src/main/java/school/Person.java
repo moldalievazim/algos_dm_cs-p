@@ -10,6 +10,7 @@ public class Person {
     }
 
     public void displayDetails (){
-        System.out.println();
+        System.out.print("Name: " + this.name + ", ");
+        System.out.println("Age: " + this.age);
     }
 }
