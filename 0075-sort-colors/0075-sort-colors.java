@@ -1,19 +1,17 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int zeroInsertPos = 0;
-        int twoInsertPos = nums.length - 1;
-        int i = 0;
+        int zeroIndex = 0, twoIndex = nums.length - 1, i = 0;
 
-        while (i <= twoInsertPos) {
+        while (i <= twoIndex) {
             if (nums[i] == 0){
-                swap(nums, zeroInsertPos, i);
-                zeroInsertPos++;
+                swap(nums, zeroIndex, i);
+                zeroIndex++;
                 i++;
             } else if (nums[i] == 1){
                 i++;
             } else {
-                swap(nums, twoInsertPos, i);
-                twoInsertPos--;
+                swap(nums, twoIndex, i);
+                twoIndex--;
             }
         }
     }
