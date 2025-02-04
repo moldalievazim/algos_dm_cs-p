@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
@@ -46,8 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
