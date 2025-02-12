@@ -1,13 +1,15 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> complements = new HashMap<>();
+        Map<Integer, Integer> lastSeenSoFar = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
-            Integer complementIndex = complements.get(nums[i]);
-            if (complementIndex != null) {
-                return new int[]{i, complementIndex};
+            int b = nums[i];
+            int a = target - b;
+
+            if (lastSeenSoFar.containsKey(a)){
+                return new int[]{lastSeenSoFar.get(a), i};
             }
-            complements.put(target - nums[i], i);
+            lastSeenSoFar.put(b, i);
         }
 
         return nums;
