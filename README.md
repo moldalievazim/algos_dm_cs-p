@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0303-range-sum-query-immutable) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0049-group-anagrams) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
