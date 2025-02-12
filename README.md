@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
