@@ -12,6 +12,6 @@ class Solution {
             lastSeenSoFar.put(b, i);
         }
 
-        return nums;
+        return new int[]{};
     }
 }
