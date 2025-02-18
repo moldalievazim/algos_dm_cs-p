@@ -5,19 +5,18 @@ class Solution {
             set.add(n);
         }
 
-        int longest_streak = 0;
+        int long_seq = 0;
         for (int n : set) {
             if (!set.contains(n - 1)) {
-                int streak_start = n;
-                int streak_end = n;
+                int seq_start = n;
+                int seq_end = n;
 
-                while (set.contains(streak_end + 1)) {
-                    streak_end++;
-                }
+                while (set.contains(seq_end + 1)) seq_end += 1;
 
-                longest_streak = Math.max(longest_streak, streak_end - streak_start + 1);
+                long_seq = Math.max(long_seq, seq_end - seq_start + 1);
             }
         }
-        return longest_streak;
+
+        return long_seq;
     }
 }
