@@ -91,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
