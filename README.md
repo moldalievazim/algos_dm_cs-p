@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Design
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0278-first-bad-version) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
