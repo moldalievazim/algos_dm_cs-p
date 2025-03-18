@@ -5,14 +5,14 @@ class Solution {
         return res;
     }
 
-    public void backtrack(List<String> res, int openN, int closedN, String s, int n) {
+    public void backtrack(List<String> res, int left, int right, String s, int n) {
         if (s.length() == n * 2) {
             res.add(s);
             return;
         }
 
-        if (openN < n) backtrack(res, openN + 1, closedN, s + "(", n);
+        if (left < n) backtrack(res, left + 1, right, s + "(", n);
 
-        if (closedN < openN) backtrack(res, openN, closedN + 1, s + ")", n);
+        if (right < left) backtrack(res, left, right + 1, s + ")", n);
     }
 }
