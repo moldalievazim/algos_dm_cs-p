@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0443-string-compression) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1013-fibonacci-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1013-fibonacci-number) |
 ## Design
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
