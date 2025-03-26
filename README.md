@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0560-subarray-sum-equals-k) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2625-increment-submatrices-by-one](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/2625-increment-submatrices-by-one) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -160,4 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0077-combinations) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
