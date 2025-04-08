@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 | [2625-increment-submatrices-by-one](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/2625-increment-submatrices-by-one) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0304-range-sum-query-2d-immutable) |
+| [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
+| [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
+| [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0190-reverse-bits) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
