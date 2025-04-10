@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0735-asteroid-collision) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
