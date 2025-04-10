@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0049-group-anagrams) |
+| [0394-decode-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0443-string-compression) |
 ## Union Find
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0735-asteroid-collision) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
