@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0304-range-sum-query-2d-immutable) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0735-asteroid-collision) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
