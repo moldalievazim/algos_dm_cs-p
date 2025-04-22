@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0560-subarray-sum-equals-k) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0735-asteroid-collision) |
+| [0859-design-circular-deque](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0859-design-circular-deque) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0304-range-sum-query-2d-immutable) |
+| [0859-design-circular-deque](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 ## Prefix Sum
 |  |
@@ -101,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
+| [0859-design-circular-deque](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
 | ------- |
