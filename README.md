@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0295-find-median-from-data-stream) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
 ## Math
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0560-subarray-sum-equals-k) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Linked List
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0443-string-compression) |
 ## Union Find
