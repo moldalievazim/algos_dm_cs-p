@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0303-range-sum-query-immutable) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0295-find-median-from-data-stream) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
 ## Math
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0560-subarray-sum-equals-k) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Linked List
