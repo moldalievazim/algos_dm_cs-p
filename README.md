@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0304-range-sum-query-2d-immutable) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0295-find-median-from-data-stream) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
 ## Math
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
