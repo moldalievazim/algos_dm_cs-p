@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0142-linked-list-cycle-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0948-sort-an-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0948-sort-an-array) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
