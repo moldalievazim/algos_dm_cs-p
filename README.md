@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0088-merge-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0053-maximum-subarray) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0948-sort-an-array) |
 ## Doubly-Linked List
