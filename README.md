@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0678-valid-parenthesis-string) |
 ## Union Find
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0678-valid-parenthesis-string) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Dynamic Programming
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0735-asteroid-collision) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
