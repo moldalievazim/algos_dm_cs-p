@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0049-group-anagrams) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0077-combinations) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0698-partition-to-k-equal-sum-subsets) |
