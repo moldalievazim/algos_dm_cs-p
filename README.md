@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1582-design-browser-history](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1582-design-browser-history) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1961-maximum-ice-cream-bars](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1961-maximum-ice-cream-bars) |
 | [2625-increment-submatrices-by-one](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/2625-increment-submatrices-by-one) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0958-sort-array-by-parity-ii) |
+| [1961-maximum-ice-cream-bars](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1961-maximum-ice-cream-bars) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0678-valid-parenthesis-string) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1961-maximum-ice-cream-bars](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1961-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/0948-sort-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/moldalievazim/algos_dm_cs-p/tree/master/1961-maximum-ice-cream-bars) |
 ## Merge Sort
 |  |
 | ------- |
